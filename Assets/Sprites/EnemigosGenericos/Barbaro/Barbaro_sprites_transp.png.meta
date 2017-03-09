@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 2d360fc54b4a4524db633df9ed811914
+timeCreated: 1472493002
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neutral1_Barbaro
+    21300002: Neutral2_Barbaro
+    21300004: Neutral3_Barbaro
+    21300006: Neutral4_Barbaro
+    21300008: Neutral5_Barbaro
+    21300010: Neutral6_Barbaro
+    21300012: Neutral7_Barbaro
+    21300014: Neutral8_Barbaro
+    21300016: Left1_Barbaro
+    21300018: Left2_Barbaro
+    21300020: Left3_Barbaro
+    21300022: Left4_Barbaro
+    21300024: Right1_Barbaro
+    21300026: Right2_Barbaro
+    21300028: Right3_Barbaro
+    21300030: Right4_Barbaro
+    21300032: Front1_Barbaro
+    21300034: Front2_Barbaro
+    21300036: Front3_Barbaro
+    21300038: Front4_Barbaro
+    21300040: Back1_Barbaro
+    21300042: Back2_Barbaro
+    21300044: Back3_Barbaro
+    21300046: Back4_Barbaro
+    21300048: AttackFront1_Barbaro
+    21300050: AttackFront2_Barbaro
+    21300052: AttackFront3_Barbaro
+    21300054: AttackFront4_Barbaro
+    21300056: AttackRight1_Barbaro
+    21300058: AttackRight2_Barbaro
+    21300060: AttackRight3_Barbaro
+    21300062: AttackRight4_Barbaro
+    21300064: AttackLeft1_Barbaro
+    21300066: AttackLeft2_Barbaro
+    21300068: AttackLeft3_Barbaro
+    21300070: AttackLeft4_Barbaro
+    21300072: AttackBack1_Barbaro
+    21300074: AttackBack2_Barbaro
+    21300076: AttackBack3_Barbaro
+    21300078: AttackBack4_Barbaro
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Neutral1_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 295
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral2_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 296
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral3_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 295
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral4_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 295
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral5_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 263
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral6_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 264
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral7_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 264
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral8_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 263
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left1_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left2_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 231
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left3_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 231
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left4_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 232
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right1_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 200
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right2_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 199
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right3_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 199
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right4_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 199
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front1_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 167
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front2_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 167
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front3_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 167
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front4_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 168
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back1_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 135
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back2_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 135
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back3_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 135
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back4_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 136
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront1_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront2_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 104
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront3_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 103
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront4_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 104
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight1_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 72
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight2_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 71
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight3_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 71
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight4_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 71
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft1_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 39
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft2_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 39
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft3_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 40
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft4_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack1_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack2_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 7
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack3_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 8
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack4_Barbaro
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 8
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

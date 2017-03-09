@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: 1d71b9a258fa77b4e90edeb416854694
+timeCreated: 1472594792
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neutral1_InfPesada
+    21300002: Neutral5_InfPesada
+    21300004: Neutral6_InfPesada
+    21300006: Neutral8_InfPesada
+    21300008: Left1_InfPesada
+    21300010: Left2_InfPesada
+    21300012: Left3_InfPesada
+    21300014: Left4_InfPesada
+    21300016: Right1_InfPesada
+    21300018: Right2_InfPesada
+    21300020: Right3_InfPesada
+    21300022: Right4_InfPesada
+    21300024: Front1_InfPesada
+    21300026: Front2_InfPesada
+    21300028: Front3_InfPesada
+    21300030: Front4_InfPesada
+    21300032: Back1_InfPesada
+    21300034: Back2_InfPesada
+    21300036: Back3_InfPesada
+    21300038: Back4_InfPesada
+    21300040: AttackFront1_InfPesada
+    21300042: AttackFront2_InfPesada
+    21300044: AttackFront3_InfPesada
+    21300046: AttackFront4_InfPesada
+    21300048: AttackRight1_InfPesada
+    21300050: AttackRight2_InfPesada
+    21300052: AttackRight3_InfPesada
+    21300054: AttackRight4_InfPesada
+    21300056: AttackLeft1_InfPesada
+    21300058: AttackLeft2_InfPesada
+    21300060: AttackLeft3_InfPesada
+    21300062: AttackLeft4_InfPesada
+    21300064: AttackBack1_InfPesada
+    21300066: AttackBack2_InfPesada
+    21300068: AttackBack3_InfPesada
+    21300070: AttackBack4_InfPesada
+    21300072: Neutral7_InfPesada
+    21300074: Neutral4_InfPesada
+    21300076: Neutral3_InfPesada
+    21300078: Neutral2_InfPesada
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Neutral1_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral5_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 264
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral6_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 264
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral8_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 264
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left1_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 231
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left2_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 231
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left3_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 231
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left4_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 231
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right1_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 199
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right2_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 199
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right3_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 199
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right4_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 200
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front1_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 168
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front2_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 168
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front3_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 168
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front4_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 168
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back1_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 136
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back2_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 136
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back3_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 136
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back4_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 136
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront1_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 104
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront2_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 104
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront3_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 104
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront4_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 104
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight1_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight2_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight3_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight4_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft1_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft2_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 40
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft3_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 40
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft4_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 40
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack1_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 8
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack2_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 9
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack3_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 9
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack4_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 8
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral7_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 264
+        width: 33
+        height: 32
+      alignment: 9
+      pivot: {x: 0.46405053, y: 0.51797587}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.686333, y: -16.575226}
+        - {x: 17.686333, y: -14.575226}
+        - {x: 17.686333, y: 15.424774}
+        - {x: -15.313667, y: 15.424774}
+        - {x: -15.313667, y: -16.575226}
+    - name: Neutral4_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 296
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral3_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 296
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral2_InfPesada
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 296
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

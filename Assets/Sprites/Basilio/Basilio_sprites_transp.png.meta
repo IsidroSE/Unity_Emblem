@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: b219ee25fafa5c341be10cecdcf1284f
+timeCreated: 1474997094
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neutral1_Basilio
+    21300002: Neutral2_Basilio
+    21300004: Neutral3_Basilio
+    21300006: Neutral4_Basilio
+    21300008: Neutral5_Basilio
+    21300010: Neutral6_Basilio
+    21300012: Neutral7_Basilio
+    21300014: Neutral8_Basilio
+    21300016: Left1_Basilio
+    21300018: Left2_Basilio
+    21300020: Left3_Basilio
+    21300022: Left4_Basilio
+    21300024: Right1_Basilio
+    21300026: Right2_Basilio
+    21300028: Right3_Basilio
+    21300030: Right4_Basilio
+    21300032: Front1_Basilio
+    21300034: Front2_Basilio
+    21300036: Front3_Basilio
+    21300038: Front4_Basilio
+    21300040: Back1_Basilio
+    21300042: Back2_Basilio
+    21300044: Back3_Basilio
+    21300046: Back4_Basilio
+    21300048: AttackFront1_Basilio
+    21300050: AttackFront2_Basilio
+    21300052: AttackFront3_Basilio
+    21300054: AttackFront4_Basilio
+    21300056: AttackRight1_Basilio
+    21300058: AttackRight2_Basilio
+    21300060: AttackRight3_Basilio
+    21300062: AttackRight4_Basilio
+    21300064: AttackLeft1_Basilio
+    21300066: AttackLeft2_Basilio
+    21300068: AttackLeft3_Basilio
+    21300070: AttackLeft4_Basilio
+    21300072: AttackBack1_Basilio
+    21300074: AttackBack2_Basilio
+    21300076: AttackBack3_Basilio
+    21300078: AttackBack4_Basilio
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Neutral1_Basilio
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 301
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral2_Basilio
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 301
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral3_Basilio
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 301
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral4_Basilio
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 301
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral5_Basilio
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 269
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral6_Basilio
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 269
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral7_Basilio
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 269
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral8_Basilio
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 269
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left1_Basilio
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left2_Basilio
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 237
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left3_Basilio
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 237
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left4_Basilio
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 237
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right1_Basilio
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 205
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right2_Basilio
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 205
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right3_Basilio
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 205
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right4_Basilio
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 205
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front1_Basilio
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 173
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front2_Basilio
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 173
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front3_Basilio
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 173
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front4_Basilio
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 173
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back1_Basilio
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 141
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back2_Basilio
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 141
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back3_Basilio
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 141
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back4_Basilio
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 141
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront1_Basilio
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront2_Basilio
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 109
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront3_Basilio
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 109
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront4_Basilio
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 109
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight1_Basilio
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 77
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight2_Basilio
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 77
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight3_Basilio
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 77
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight4_Basilio
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 77
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft1_Basilio
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 45
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft2_Basilio
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 45
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft3_Basilio
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 45
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft4_Basilio
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 45
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack1_Basilio
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 13
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack2_Basilio
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 13
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack3_Basilio
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 13
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack4_Basilio
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 13
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

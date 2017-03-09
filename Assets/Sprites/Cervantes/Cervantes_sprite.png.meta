@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: a86ffb567fbe0474a845d788ce24d439
+timeCreated: 1474997746
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neutral1_Cervantes
+    21300002: Neutral5_Cervantes
+    21300004: Neutral6_Cervantes
+    21300006: Neutral8_Cervantes
+    21300008: Left1_Cervantes
+    21300010: Left2_Cervantes
+    21300012: Left3_Cervantes
+    21300014: Left4_Cervantes
+    21300016: Right1_Cervantes
+    21300018: Right2_Cervantes
+    21300020: Right3_Cervantes
+    21300022: Right4_Cervantes
+    21300024: Front1_Cervantes
+    21300026: Front2_Cervantes
+    21300028: Front3_Cervantes
+    21300030: Front4_Cervantes
+    21300032: Back1_Cervantes
+    21300034: Back2_Cervantes
+    21300036: Back3_Cervantes
+    21300038: Back4_Cervantes
+    21300040: AttackFront1_Cervantes
+    21300042: AttackFront2_Cervantes
+    21300044: AttackFront3_Cervantes
+    21300046: AttackFront4_Cervantes
+    21300048: AttackRight1_Cervantes
+    21300050: AttackRight2_Cervantes
+    21300052: AttackRight3_Cervantes
+    21300054: AttackRight4_Cervantes
+    21300056: AttackLeft1_Cervantes
+    21300058: AttackLeft2_Cervantes
+    21300060: AttackLeft3_Cervantes
+    21300062: AttackLeft4_Cervantes
+    21300064: AttackBack1_Cervantes
+    21300066: AttackBack2_Cervantes
+    21300068: AttackBack3_Cervantes
+    21300070: AttackBack4_Cervantes
+    21300072: Neutral2_Cervantes
+    21300074: Neutral3_Cervantes
+    21300076: Neutral4_Cervantes
+    21300078: Neutral7_Cervantes
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Neutral1_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral5_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 266
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral6_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 266
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral8_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 266
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left1_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 234
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left2_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 234
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left3_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 234
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left4_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 234
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right1_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 202
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right2_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 202
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right3_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 202
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right4_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 202
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front1_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 170
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front2_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 170
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front3_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 170
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front4_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 170
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back1_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 138
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back2_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 138
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back3_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 138
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back4_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 138
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront1_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront2_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 106
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront3_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 106
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront4_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 106
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight1_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 74
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight2_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 74
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight3_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 74
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight4_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 74
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft1_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft2_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 42
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft3_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 42
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft4_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 42
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack1_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 10
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack2_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 10
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack3_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 10
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack4_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 10
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral2_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 298
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral3_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 298
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral4_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 298
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral7_Cervantes
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 266
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

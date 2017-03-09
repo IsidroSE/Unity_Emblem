@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 8e4336dcb1588524790e3007c53f369d
+timeCreated: 1472663401
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neutral1_Jinete
+    21300002: Neutral2_Jinete
+    21300004: Neutral3_Jinete
+    21300006: Neutral4_Jinete
+    21300008: Neutral5_Jinete
+    21300010: Neutral6_Jinete
+    21300012: Neutral7_Jinete
+    21300014: Neutral8_Jinete
+    21300016: Left1_Jinete
+    21300018: Left2_Jinete
+    21300020: Left3_Jinete
+    21300022: Left4_Jinete
+    21300024: Right1_Jinete
+    21300026: Right2_Jinete
+    21300028: Right3_Jinete
+    21300030: Right4_Jinete
+    21300032: Front1_Jinete
+    21300034: Front2_Jinete
+    21300036: Front3_Jinete
+    21300038: Front4_Jinete
+    21300040: Back1_Jinete
+    21300042: Back2_Jinete
+    21300044: Back3_Jinete
+    21300046: Back4_Jinete
+    21300048: AttackFront1_Jinete
+    21300050: AttackFront2_Jinete
+    21300052: AttackFront3_Jinete
+    21300054: AttackFront4_Jinete
+    21300056: AttackRight1_Jinete
+    21300058: AttackRight2_Jinete
+    21300060: AttackRight3_Jinete
+    21300062: AttackRight4_Jinete
+    21300064: AttackLeft1_Jinete
+    21300066: AttackLeft2_Jinete
+    21300068: AttackLeft3_Jinete
+    21300070: AttackLeft4_Jinete
+    21300072: AttackBack1_Jinete
+    21300074: AttackBack2_Jinete
+    21300076: AttackBack3_Jinete
+    21300078: AttackBack4_Jinete
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Neutral1_Jinete
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 299
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral2_Jinete
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 299
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral3_Jinete
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 299
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral4_Jinete
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 299
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral5_Jinete
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 267
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral6_Jinete
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 267
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral7_Jinete
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 267
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral8_Jinete
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 267
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left1_Jinete
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 235
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left2_Jinete
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 235
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left3_Jinete
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 235
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left4_Jinete
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 235
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right1_Jinete
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 203
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right2_Jinete
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 203
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right3_Jinete
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 203
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right4_Jinete
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 203
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front1_Jinete
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 171
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front2_Jinete
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 171
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front3_Jinete
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 171
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front4_Jinete
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 171
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back1_Jinete
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 139
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back2_Jinete
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 139
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back3_Jinete
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 139
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back4_Jinete
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 139
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront1_Jinete
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 107
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront2_Jinete
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 107
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront3_Jinete
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 107
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront4_Jinete
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 107
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight1_Jinete
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 75
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight2_Jinete
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 75
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight3_Jinete
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 75
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight4_Jinete
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 75
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft1_Jinete
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 43
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft2_Jinete
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 43
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft3_Jinete
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 43
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft4_Jinete
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 43
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack1_Jinete
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack2_Jinete
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 11
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack3_Jinete
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 11
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack4_Jinete
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 11
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

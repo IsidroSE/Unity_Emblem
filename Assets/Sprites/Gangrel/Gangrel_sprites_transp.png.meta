@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 1380a6e136c34d24cb313ada4055c774
+timeCreated: 1477852339
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neutral1_Gangrel
+    21300002: Neutral2_Gangrel
+    21300004: Neutral3_Gangrel
+    21300006: Neutral4_Gangrel
+    21300008: Neutral5_Gangrel
+    21300010: Neutral6_Gangrel
+    21300012: Neutral7_Gangrel
+    21300014: Neutral8_Gangrel
+    21300016: Left1_Gangrel
+    21300018: Left2_Gangrel
+    21300020: Left3_Gangrel
+    21300022: Left4_Gangrel
+    21300024: Right1_Gangrel
+    21300026: Right2_Gangrel
+    21300028: Right3_Gangrel
+    21300030: Right4_Gangrel
+    21300032: Front1_Gangrel
+    21300034: Front2_Gangrel
+    21300036: Front3_Gangrel
+    21300038: Front4_Gangrel
+    21300040: Back1_Gangrel
+    21300042: Back2_Gangrel
+    21300044: Back3_Gangrel
+    21300046: Back4_Gangrel
+    21300048: AttackFront1_Gangrel
+    21300050: AttackFront2_Gangrel
+    21300052: AttackFront3_Gangrel
+    21300054: AttackFront4_Gangrel
+    21300056: AttackRight1_Gangrel
+    21300058: AttackRight2_Gangrel
+    21300060: AttackRight3_Gangrel
+    21300062: AttackRight4_Gangrel
+    21300064: AttackBack1_Gangrel
+    21300066: AttackBack2_Gangrel
+    21300068: AttackBack3_Gangrel
+    21300070: AttackBack4_Gangrel
+    21300072: AttackLeft1_Gangrel
+    21300074: AttackLeft2_Gangrel
+    21300076: AttackLeft3_Gangrel
+    21300078: AttackLeft4_Gangrel
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Neutral1_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 365
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral2_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 365
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral3_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 365
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral4_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 365
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral5_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 333
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral6_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 333
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral7_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 333
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral8_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 333
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left1_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 301
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left2_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 301
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left3_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 301
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left4_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 301
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right1_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 269
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right2_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 269
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right3_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 269
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right4_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 269
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front1_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 237
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front2_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 237
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front3_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 237
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front4_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 237
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back1_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 205
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back2_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 205
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back3_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 205
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back4_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 205
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront1_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 173
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront2_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 173
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront3_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 173
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront4_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 173
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight1_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 141
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight2_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 141
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight3_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 141
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight4_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 141
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack1_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 109
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack2_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 109
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack3_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 109
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack4_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 109
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft1_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 77
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft2_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 77
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft3_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 77
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft4_Gangrel
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 77
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

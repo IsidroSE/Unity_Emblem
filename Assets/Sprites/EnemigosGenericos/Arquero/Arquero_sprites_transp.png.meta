@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 081888dd49001ab4ba8218193d53d64b
+timeCreated: 1472487262
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neutral1_Arquero
+    21300002: Neutral2_Arquero
+    21300004: Neutral3_Arquero
+    21300006: Neutral4_Arquero
+    21300008: Neutral5_Arquero
+    21300010: Neutral6_Arquero
+    21300012: Neutral7_Arquero
+    21300014: Neutral8_Arquero
+    21300016: Left1_Arquero
+    21300018: Left2_Arquero
+    21300020: Left3_Arquero
+    21300022: Left4_Arquero
+    21300024: Right1_Arquero
+    21300026: Right2_Arquero
+    21300028: Right3_Arquero
+    21300030: Right4_Arquero
+    21300032: Front1_Arquero
+    21300034: Front2_Arquero
+    21300036: Front3_Arquero
+    21300038: Front4_Arquero
+    21300040: Back1_Arquero
+    21300042: Back2_Arquero
+    21300044: Back3_Arquero
+    21300046: Back4_Arquero
+    21300048: AttackFront1_Arquero
+    21300050: AttackFront2_Arquero
+    21300052: AttackFront3_Arquero
+    21300054: AttackFront4_Arquero
+    21300056: AttackRight1_Arquero
+    21300058: AttackRight2_Arquero
+    21300060: AttackRight3_Arquero
+    21300062: AttackRight4_Arquero
+    21300064: AttackBack1_Arquero
+    21300066: AttackBack2_Arquero
+    21300068: AttackBack3_Arquero
+    21300070: AttackBack4_Arquero
+    21300072: AttackLeft1_Arquero
+    21300074: AttackLeft2_Arquero
+    21300076: AttackLeft3_Arquero
+    21300078: AttackLeft4_Arquero
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Neutral1_Arquero
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 301
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral2_Arquero
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 301
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral3_Arquero
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 302
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral4_Arquero
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 302
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral5_Arquero
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 270
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral6_Arquero
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 272
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral7_Arquero
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 269
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral8_Arquero
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 270
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left1_Arquero
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 237
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left2_Arquero
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 237
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left3_Arquero
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 238
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left4_Arquero
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 237
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right1_Arquero
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 206
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right2_Arquero
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 206
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right3_Arquero
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 205
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right4_Arquero
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 205
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front1_Arquero
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 173
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front2_Arquero
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 174
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front3_Arquero
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 173
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front4_Arquero
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 174
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back1_Arquero
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 141
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back2_Arquero
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 141
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back3_Arquero
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 141
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back4_Arquero
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 141
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront1_Arquero
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 110
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront2_Arquero
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 109
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront3_Arquero
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 110
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront4_Arquero
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 110
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight1_Arquero
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 78
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight2_Arquero
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 77
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight3_Arquero
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 77
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight4_Arquero
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 78
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack1_Arquero
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 45
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack2_Arquero
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 45
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack3_Arquero
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 45
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack4_Arquero
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 46
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft1_Arquero
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 13
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft2_Arquero
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 13
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft3_Arquero
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 13
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft4_Arquero
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 13
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

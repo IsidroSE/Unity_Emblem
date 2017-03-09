@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: f6469f84d7c34474e968f19c718553b3
+timeCreated: 1474998623
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neutral1_Cordelia
+    21300002: Neutral2_Cordelia
+    21300004: Neutral3_Cordelia
+    21300006: Neutral4_Cordelia
+    21300008: Neutral5_Cordelia
+    21300010: Neutral6_Cordelia
+    21300012: Neutral7_Cordelia
+    21300014: Neutral8_Cordelia
+    21300016: Left1_Cordelia
+    21300018: Left3_Cordelia
+    21300020: Left4_Cordelia
+    21300022: Right1_Cordelia
+    21300024: Right3_Cordelia
+    21300026: Right4_Cordelia
+    21300028: Front1_Cordelia
+    21300030: Front2_Cordelia
+    21300032: Front3_Cordelia
+    21300034: Back1_Cordelia
+    21300036: Back2_Cordelia
+    21300038: Back3_Cordelia
+    21300040: AttackFront1_Cordelia
+    21300042: AttackFront2_Cordelia
+    21300044: AttackFront3_Cordelia
+    21300046: AttackRight1_Cordelia
+    21300048: AttackRight2_Cordelia
+    21300050: AttackRight3_Cordelia
+    21300052: AttackLeft1_Cordelia
+    21300054: AttackLeft2_Cordelia
+    21300056: AttackLeft3_Cordelia
+    21300058: AttackLeft4_Cordelia
+    21300060: AttackBack1_Cordelia
+    21300062: AttackBack2_Cordelia
+    21300064: AttackBack3_Cordelia
+    21300066: AttackBack4_Cordelia
+    21300068: Left2_Cordelia
+    21300070: Right2_Cordelia
+    21300072: Front4_Cordelia
+    21300074: Back4_Cordelia
+    21300076: AttackFront4_Cordelia
+    21300078: AttackRight4_Cordelia
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Neutral1_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 325
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -6.5}
+        - {x: -8.5, y: -16.5}
+        - {x: 9.5, y: -16.5}
+        - {x: 16.5, y: -7.5}
+        - {x: 16.5, y: 16.5}
+      - - {x: -16.5, y: -11.5}
+        - {x: -13.5, y: -10.5}
+        - {x: -13.5, y: -4.5}
+        - {x: -15.5, y: -2.5}
+        - {x: -16.5, y: -2.5}
+    - name: Neutral2_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 325
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral3_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 325
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral4_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 325
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -12}
+        - {x: -11, y: -16}
+        - {x: 15, y: -16}
+        - {x: 16, y: -15}
+        - {x: 16, y: 0}
+        - {x: 8, y: 13}
+    - name: Neutral5_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 17}
+        - {x: -16, y: 8}
+        - {x: -16, y: -15}
+        - {x: -15, y: -17}
+        - {x: 16, y: -17}
+        - {x: 16, y: 17}
+    - name: Neutral6_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 290
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral7_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 290
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral8_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 290
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left1_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: -15, y: -16}
+        - {x: 10, y: -16}
+        - {x: 13, y: -15}
+        - {x: 16, y: -4}
+        - {x: 16, y: 16}
+    - name: Left3_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -6}
+        - {x: -8, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -3}
+        - {x: 12, y: 8}
+    - name: Left4_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -9}
+        - {x: -15, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -14}
+        - {x: 16, y: 0}
+        - {x: 5, y: 16}
+    - name: Right1_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -7}
+        - {x: -11, y: -16}
+        - {x: 12, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 13}
+        - {x: 14, y: 16}
+    - name: Right3_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 220
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right4_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 220
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 16.5}
+        - {x: -16, y: 5.5}
+        - {x: -16, y: -13.5}
+        - {x: -14, y: -12.5}
+        - {x: -9, y: -10.5}
+        - {x: -10, y: -11.5}
+        - {x: -10, y: -13.5}
+        - {x: -8, y: -16.5}
+        - {x: 12, y: -16.5}
+        - {x: 16, y: -8.5}
+        - {x: 16, y: 12.5}
+        - {x: 15, y: 16.5}
+    - name: Front1_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 185
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16}
+        - {x: -16.5, y: -1}
+        - {x: -11.5, y: -14}
+        - {x: -8.5, y: -16}
+        - {x: 8.5, y: -16}
+        - {x: 13.5, y: -10}
+        - {x: 16.5, y: 4}
+        - {x: 16.5, y: 16}
+      - - {x: -16.5, y: -8}
+        - {x: -13.5, y: -7}
+        - {x: -13.5, y: -2}
+        - {x: -15.5, y: 0}
+        - {x: -16.5, y: 0}
+    - name: Front2_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 185
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front3_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 185
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back1_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 150
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back2_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 150
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back3_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -11}
+        - {x: -12, y: -16}
+        - {x: 9, y: -16}
+        - {x: 16, y: -11}
+        - {x: 16, y: 16}
+    - name: AttackFront1_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 115
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront2_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 115
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront3_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 115
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight1_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 80
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -9}
+        - {x: -11, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -8}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+    - name: AttackRight2_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 80
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight3_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 80
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft1_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 45
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft2_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 45
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft3_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 45
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft4_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 45
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 16}
+        - {x: -16.5, y: 8}
+        - {x: -16.5, y: -16}
+        - {x: 9.5, y: -16}
+        - {x: 11.5, y: -15}
+        - {x: 16.5, y: -5}
+        - {x: 16.5, y: 3}
+        - {x: 9.5, y: 16}
+      - - {x: 13.5, y: 8}
+        - {x: 15.5, y: 6}
+        - {x: 16.5, y: 6}
+        - {x: 16.5, y: 12}
+        - {x: 13.5, y: 11}
+    - name: AttackBack1_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 16.5}
+        - {x: -16.5, y: -7.5}
+        - {x: -14.5, y: -12.5}
+        - {x: -10.5, y: -16.5}
+        - {x: 11.5, y: -16.5}
+        - {x: 13.5, y: -15.5}
+        - {x: 16.5, y: -5.5}
+        - {x: 16.5, y: 12.5}
+        - {x: 14.5, y: 16.5}
+      - - {x: -16.5, y: -7.5}
+        - {x: -13.5, y: -6.5}
+        - {x: -13.5, y: -3.5}
+        - {x: -15.5, y: -1.5}
+        - {x: -16.5, y: -1.5}
+    - name: AttackBack2_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 10
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack3_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 10
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack4_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 10
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left2_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -7}
+        - {x: -14, y: -12}
+        - {x: -10, y: -16}
+        - {x: 10, y: -16}
+        - {x: 13, y: -15}
+        - {x: 16, y: -12}
+        - {x: 16, y: 16}
+    - name: Right2_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 220
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 16}
+        - {x: -16, y: 10}
+        - {x: -16, y: -11}
+        - {x: -11, y: -16}
+        - {x: 8, y: -16}
+        - {x: 16, y: -9}
+        - {x: 16, y: 16}
+    - name: Front4_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 185
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back4_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 150
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 16}
+        - {x: -16, y: 5}
+        - {x: -16, y: -10}
+        - {x: -14, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -12}
+        - {x: 16, y: 13}
+        - {x: 15, y: 16}
+    - name: AttackFront4_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 115
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight4_Cordelia
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 80
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

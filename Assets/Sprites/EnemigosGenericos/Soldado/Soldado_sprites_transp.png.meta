@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 65259a1a3fc19424aa3b039d8e89e52b
+timeCreated: 1472667432
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neutral1_Soldado
+    21300002: Neutral2_Soldado
+    21300004: Neutral3_Soldado
+    21300006: Neutral4_Soldado
+    21300008: Neutral5_Soldado
+    21300010: Neutral6_Soldado
+    21300012: Neutral7_Soldado
+    21300014: Neutral8_Soldado
+    21300016: Left1_Soldado
+    21300018: Left2_Soldado
+    21300020: Left3_Soldado
+    21300022: Left4_Soldado
+    21300024: Right1_Soldado
+    21300026: Right2_Soldado
+    21300028: Right3_Soldado
+    21300030: Right4_Soldado
+    21300032: Front1_Soldado
+    21300034: Front2_Soldado
+    21300036: Front3_Soldado
+    21300038: Front4_Soldado
+    21300040: Back1_Soldado
+    21300042: Back2_Soldado
+    21300044: Back3_Soldado
+    21300046: Back4_Soldado
+    21300048: AttackFront1_Soldado
+    21300050: AttackFront2_Soldado
+    21300052: AttackFront3_Soldado
+    21300054: AttackFront4_Soldado
+    21300056: AttackRight1_Soldado
+    21300058: AttackRight2_Soldado
+    21300060: AttackRight3_Soldado
+    21300062: AttackRight4_Soldado
+    21300064: AttackLeft1_Soldado
+    21300066: AttackLeft2_Soldado
+    21300068: AttackLeft3_Soldado
+    21300070: AttackLeft4_Soldado
+    21300072: AttackBack1_Soldado
+    21300074: AttackBack2_Soldado
+    21300076: AttackBack3_Soldado
+    21300078: AttackBack4_Soldado
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Neutral1_Soldado
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral2_Soldado
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 298
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral3_Soldado
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 298
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral4_Soldado
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 298
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral5_Soldado
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 266
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral6_Soldado
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 266
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral7_Soldado
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 266
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral8_Soldado
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 266
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left1_Soldado
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 234
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left2_Soldado
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 234
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left3_Soldado
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 234
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left4_Soldado
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 234
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right1_Soldado
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 202
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right2_Soldado
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 202
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right3_Soldado
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 202
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right4_Soldado
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 202
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front1_Soldado
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 170
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front2_Soldado
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 170
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front3_Soldado
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 170
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front4_Soldado
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 170
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back1_Soldado
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 138
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back2_Soldado
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 138
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back3_Soldado
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 138
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back4_Soldado
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 138
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront1_Soldado
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 106
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront2_Soldado
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 106
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront3_Soldado
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 106
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront4_Soldado
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 106
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight1_Soldado
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 74
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight2_Soldado
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 74
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight3_Soldado
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 74
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight4_Soldado
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 74
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft1_Soldado
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 42
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft2_Soldado
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 42
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft3_Soldado
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 42
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft4_Soldado
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 42
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack1_Soldado
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack2_Soldado
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 10
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack3_Soldado
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 10
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack4_Soldado
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 10
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

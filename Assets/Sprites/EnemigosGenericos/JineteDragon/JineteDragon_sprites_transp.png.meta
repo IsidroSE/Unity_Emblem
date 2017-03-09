@@ -1,0 +1,609 @@
+fileFormatVersion: 2
+guid: de0f7246480717049b02cc9c17893116
+timeCreated: 1472742581
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neutral1_JineteDragon
+    21300002: Neutral2_JineteDragon
+    21300004: Neutral3_JineteDragon
+    21300006: Neutral4_JineteDragon
+    21300008: Neutral5_JineteDragon
+    21300010: Neutral6_JineteDragon
+    21300012: Neutral7_JineteDragon
+    21300014: Neutral8_JineteDragon
+    21300016: Left1_JineteDragon
+    21300018: Left2_JineteDragon
+    21300020: Right1_JineteDragon
+    21300022: Right4_JineteDragon
+    21300024: Front1_JineteDragon
+    21300026: Front2_JineteDragon
+    21300028: Front3_JineteDragon
+    21300030: Front4_JineteDragon
+    21300032: Back1_JineteDragon
+    21300034: Back2_JineteDragon
+    21300036: Back3_JineteDragon
+    21300038: Back4_JineteDragon
+    21300040: AttackFront1_JineteDragon
+    21300042: AttackFront2_JineteDragon
+    21300044: AttackFront3_JineteDragon
+    21300046: AttackFront4_JineteDragon
+    21300048: AttackRight1_JineteDragon
+    21300050: AttackRight2_JineteDragon
+    21300052: AttackRight3_JineteDragon
+    21300054: AttackRight4_JineteDragon
+    21300056: AttackBack1_JineteDragon
+    21300058: AttackBack2_JineteDragon
+    21300060: AttackBack3_JineteDragon
+    21300062: AttackBack4_JineteDragon
+    21300064: AttackLeft1_JineteDragon
+    21300066: AttackLeft2_JineteDragon
+    21300068: AttackLeft3_JineteDragon
+    21300070: AttackLeft4_JineteDragon
+    21300072: Left3_JineteDragon
+    21300074: Left4_JineteDragon
+    21300076: Right2_JineteDragon
+    21300078: Right3_JineteDragon
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Neutral1_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 322
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 17}
+        - {x: -16, y: 14}
+        - {x: -16, y: -17}
+        - {x: 8, y: -17}
+        - {x: 16, y: -5}
+        - {x: 16, y: 17}
+    - name: Neutral2_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 322
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 17}
+        - {x: -16, y: 14}
+        - {x: -16, y: -15}
+        - {x: -10, y: -17}
+        - {x: 11, y: -17}
+        - {x: 16, y: -10}
+        - {x: 16, y: 15}
+        - {x: 11, y: 17}
+    - name: Neutral3_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 322
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 17}
+        - {x: -16, y: 17}
+        - {x: -16, y: -15}
+        - {x: -9, y: -17}
+        - {x: 14, y: -17}
+        - {x: 16, y: -16}
+        - {x: 16, y: 9}
+        - {x: 15, y: 14}
+    - name: Neutral4_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 322
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral5_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 287
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral6_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 287
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral7_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 287
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral8_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 287
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left1_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 252
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left2_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 252
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16.5}
+        - {x: -16, y: 10.5}
+        - {x: -16, y: -15.5}
+        - {x: -13, y: -16.5}
+        - {x: 10, y: -16.5}
+        - {x: 13, y: -15.5}
+        - {x: 16, y: -9.5}
+        - {x: 16, y: 9.5}
+        - {x: 6, y: 16.5}
+    - name: Right1_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 217
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -7.5}
+        - {x: 9, y: -9.5}
+        - {x: 12, y: -9.5}
+        - {x: 16, y: -8.5}
+        - {x: 16, y: 1.5}
+        - {x: 10, y: 15.5}
+        - {x: 9, y: 16.5}
+        - {x: -9, y: 16.5}
+        - {x: -16, y: 8.5}
+        - {x: -16, y: -9.5}
+        - {x: -10, y: -16.5}
+        - {x: 9, y: -16.5}
+        - {x: 13, y: -15.5}
+        - {x: 10, y: -11.5}
+        - {x: 8, y: -8.5}
+        - {x: 4, y: -7.5}
+    - name: Right4_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 217
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front1_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 182
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front2_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 182
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front3_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 182
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front4_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 182
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back1_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 147
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back2_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 147
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back3_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 147
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back4_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 147
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront1_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 112
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront2_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 112
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront3_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 112
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront4_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 112
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight1_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 77
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight2_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 77
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight3_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 77
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight4_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 77
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack1_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 42
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack2_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 42
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack3_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 42
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack4_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 42
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft1_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft2_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 7
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft3_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 7
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft4_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 7
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left3_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 252
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16.5}
+        - {x: -16, y: -12.5}
+        - {x: -15, y: -16.5}
+        - {x: 16, y: -16.5}
+        - {x: 16, y: 10.5}
+        - {x: 8, y: 16.5}
+    - name: Left4_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 252
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right2_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 217
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 16.5}
+        - {x: -10, y: 15.5}
+        - {x: -16, y: 2.5}
+        - {x: -16, y: -13.5}
+        - {x: -12, y: -16.5}
+        - {x: 10, y: -16.5}
+        - {x: 13, y: -15.5}
+        - {x: 16, y: -12.5}
+        - {x: 16, y: 1.5}
+        - {x: 10, y: 16.5}
+    - name: Right3_JineteDragon
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 217
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 16.5}
+        - {x: -8, y: 16.5}
+        - {x: -16, y: 13.5}
+        - {x: -16, y: -10.5}
+        - {x: -12, y: -16.5}
+        - {x: 8, y: -16.5}
+        - {x: 10, y: -13.5}
+        - {x: 10, y: -11.5}
+        - {x: 16, y: -10.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

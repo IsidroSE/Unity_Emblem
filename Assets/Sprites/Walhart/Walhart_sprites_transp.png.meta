@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: d4e6a4a034688a54ea334056ee5d3184
+timeCreated: 1476960962
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neutral1_Walhart
+    21300002: Neutral2_Walhart
+    21300004: Neutral3_Walhart
+    21300006: Neutral4_Walhart
+    21300008: Neutral5_Walhart
+    21300010: Neutral6_Walhart
+    21300012: Neutral7_Walhart
+    21300014: Neutral8_Walhart
+    21300016: Left3_Walhart
+    21300018: Left4_Walhart
+    21300020: Right1_Walhart
+    21300022: Right2_Walhart
+    21300024: Right3_Walhart
+    21300026: Right4_Walhart
+    21300028: Front1_Walhart
+    21300030: Front2_Walhart
+    21300032: Front3_Walhart
+    21300034: Front4_Walhart
+    21300036: Back1_Walhart
+    21300038: Back2_Walhart
+    21300040: Back3_Walhart
+    21300042: Back4_Walhart
+    21300044: AttackFront1_Walhart
+    21300046: AttackFront2_Walhart
+    21300048: AttackFront3_Walhart
+    21300050: AttackFront4_Walhart
+    21300052: AttackRight1_Walhart
+    21300054: AttackRight2_Walhart
+    21300056: AttackRight3_Walhart
+    21300058: AttackRight4_Walhart
+    21300060: AttackLeft1_Walhart
+    21300062: AttackLeft2_Walhart
+    21300064: AttackLeft3_Walhart
+    21300066: AttackLeft4_Walhart
+    21300068: AttackBack1_Walhart
+    21300070: AttackBack2_Walhart
+    21300072: AttackBack3_Walhart
+    21300074: AttackBack4_Walhart
+    21300076: Left2_Walhart
+    21300078: Left1_Walhart
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Neutral1_Walhart
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 295
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral2_Walhart
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 295
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral3_Walhart
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 295
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral4_Walhart
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 295
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral5_Walhart
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 30.5}
+        - {x: -31.5, y: -30.5}
+        - {x: 25.5, y: -30.5}
+        - {x: 31.5, y: -24.5}
+        - {x: 31.5, y: 30.5}
+    - name: Neutral6_Walhart
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 263
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral7_Walhart
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 263
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral8_Walhart
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 263
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left3_Walhart
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 231
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left4_Walhart
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 231
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right1_Walhart
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right2_Walhart
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 199
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right3_Walhart
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 199
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right4_Walhart
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 199
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front1_Walhart
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 167
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front2_Walhart
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 167
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front3_Walhart
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 167
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front4_Walhart
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 167
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back1_Walhart
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 135
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back2_Walhart
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 135
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back3_Walhart
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 135
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back4_Walhart
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 135
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront1_Walhart
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront2_Walhart
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 103
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront3_Walhart
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 103
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront4_Walhart
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 103
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight1_Walhart
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight2_Walhart
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 71
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight3_Walhart
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 71
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight4_Walhart
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 71
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft1_Walhart
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 39
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft2_Walhart
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 39
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft3_Walhart
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 39
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft4_Walhart
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 39
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack1_Walhart
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack2_Walhart
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 7
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack3_Walhart
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 7
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack4_Walhart
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 7
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left2_Walhart
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 231
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left1_Walhart
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

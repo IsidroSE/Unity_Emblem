@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 71dc6691ead4bd34ab48af08ae4681c6
+timeCreated: 1477071302
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neutral1_Lucina
+    21300002: Neutral2_Lucina
+    21300004: Neutral3_Lucina
+    21300006: Neutral4_Lucina
+    21300008: Neutral5_Lucina
+    21300010: Neutral6_Lucina
+    21300012: Neutral7_Lucina
+    21300014: Neutral8_Lucina
+    21300016: Left1_Lucina
+    21300018: Left2_Lucina
+    21300020: Left3_Lucina
+    21300022: Left4_Lucina
+    21300024: Right1_Lucina
+    21300026: Right2_Lucina
+    21300028: Right3_Lucina
+    21300030: Right4_Lucina
+    21300032: Front1_Lucina
+    21300034: Front2_Lucina
+    21300036: Front3_Lucina
+    21300038: Front4_Lucina
+    21300040: Back1_Lucina
+    21300042: Back2_Lucina
+    21300044: Back3_Lucina
+    21300046: Back4_Lucina
+    21300048: AttackFront1_Lucina
+    21300050: AttackFront2_Lucina
+    21300052: AttackFront3_Lucina
+    21300054: AttackFront4_Lucina
+    21300056: AttackRight1_Lucina
+    21300058: AttackRight2_Lucina
+    21300060: AttackRight3_Lucina
+    21300062: AttackRight4_Lucina
+    21300064: AttackBack1_Lucina
+    21300066: AttackBack2_Lucina
+    21300068: AttackBack3_Lucina
+    21300070: AttackBack4_Lucina
+    21300072: AttackLeft1_Lucina
+    21300074: AttackLeft2_Lucina
+    21300076: AttackLeft3_Lucina
+    21300078: AttackLeft4_Lucina
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Neutral1_Lucina
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 299
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral2_Lucina
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 299
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral3_Lucina
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 299
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral4_Lucina
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 299
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral5_Lucina
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 267
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral6_Lucina
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 267
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral7_Lucina
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 267
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral8_Lucina
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 267
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left1_Lucina
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 235
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left2_Lucina
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 235
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left3_Lucina
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 235
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left4_Lucina
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 235
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right1_Lucina
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 203
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right2_Lucina
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 203
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right3_Lucina
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 203
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right4_Lucina
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 203
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front1_Lucina
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 171
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front2_Lucina
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 171
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front3_Lucina
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 171
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front4_Lucina
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 171
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back1_Lucina
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 139
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back2_Lucina
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 139
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back3_Lucina
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 139
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back4_Lucina
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 139
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront1_Lucina
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 107
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront2_Lucina
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 107
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront3_Lucina
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 107
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront4_Lucina
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 107
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight1_Lucina
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 75
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight2_Lucina
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 75
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight3_Lucina
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 75
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight4_Lucina
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 75
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack1_Lucina
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 43
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack2_Lucina
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 43
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack3_Lucina
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 43
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack4_Lucina
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 43
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft1_Lucina
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft2_Lucina
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 11
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft3_Lucina
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 11
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft4_Lucina
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 11
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

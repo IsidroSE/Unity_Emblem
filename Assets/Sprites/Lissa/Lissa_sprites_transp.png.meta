@@ -1,0 +1,633 @@
+fileFormatVersion: 2
+guid: f402e67bac8cca641b4885cd0d2ced53
+timeCreated: 1477070772
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Neutral1_Lissa
+    21300002: Neutral2_Lissa
+    21300004: Neutral3_Lissa
+    21300006: Neutral4_Lissa
+    21300008: Neutral5_Lissa
+    21300010: Neutral6_Lissa
+    21300012: Neutral7_Lissa
+    21300014: Neutral8_Lissa
+    21300016: Left1_Lissa
+    21300018: Left2_Lissa
+    21300020: Left3_Lissa
+    21300022: Left4_Lissa
+    21300024: Right1_Lissa
+    21300026: Right2_Lissa
+    21300028: Right3_Lissa
+    21300030: Right4_Lissa
+    21300032: Front1_Lissa
+    21300034: Front2_Lissa
+    21300036: Front3_Lissa
+    21300038: Front4_Lissa
+    21300040: Back1_Lissa
+    21300042: Back2_Lissa
+    21300044: Back3_Lissa
+    21300046: Back4_Lissa
+    21300048: AttackFront1_Lissa
+    21300050: AttackFront2_Lissa
+    21300052: AttackFront3_Lissa
+    21300054: AttackFront4_Lissa
+    21300056: AttackRight1_Lissa
+    21300058: AttackRight2_Lissa
+    21300060: AttackRight3_Lissa
+    21300062: AttackRight4_Lissa
+    21300064: AttackLeft1_Lissa
+    21300066: AttackLeft2_Lissa
+    21300068: AttackLeft3_Lissa
+    21300070: AttackLeft4_Lissa
+    21300072: AttackBack1_Lissa
+    21300074: AttackBack2_Lissa
+    21300076: AttackBack3_Lissa
+    21300078: AttackBack4_Lissa
+    21300080: Healing1_Lissa
+    21300082: Healing2_Lissa
+    21300084: Healing3_Lissa
+    21300086: Healing4_Lissa
+    21300088: Healing5_Lissa
+    21300090: Healing6_Lissa
+    21300092: Healing7_Lissa
+    21300094: Healing8_Lissa
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Neutral1_Lissa
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 362
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral2_Lissa
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 362
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral3_Lissa
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 362
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral4_Lissa
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 362
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral5_Lissa
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 330
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral6_Lissa
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 330
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral7_Lissa
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 330
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Neutral8_Lissa
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 330
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left1_Lissa
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 298
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left2_Lissa
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 298
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left3_Lissa
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 298
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left4_Lissa
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 298
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right1_Lissa
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 266
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right2_Lissa
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 266
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right3_Lissa
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 266
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Right4_Lissa
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 266
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front1_Lissa
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 234
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front2_Lissa
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 234
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front3_Lissa
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 234
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Front4_Lissa
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 234
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back1_Lissa
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 202
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back2_Lissa
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 202
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back3_Lissa
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 202
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Back4_Lissa
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 202
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront1_Lissa
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 170
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront2_Lissa
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 170
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront3_Lissa
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 170
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackFront4_Lissa
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 170
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight1_Lissa
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 138
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight2_Lissa
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 138
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight3_Lissa
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 138
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackRight4_Lissa
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 138
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft1_Lissa
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 106
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft2_Lissa
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 106
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft3_Lissa
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 106
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackLeft4_Lissa
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 106
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack1_Lissa
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 74
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack2_Lissa
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 74
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack3_Lissa
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 74
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: AttackBack4_Lissa
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 74
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Healing1_Lissa
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 42
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Healing2_Lissa
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 42
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Healing3_Lissa
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 42
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Healing4_Lissa
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 42
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Healing5_Lissa
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 10
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Healing6_Lissa
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 10
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Healing7_Lissa
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 10
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Healing8_Lissa
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 10
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
