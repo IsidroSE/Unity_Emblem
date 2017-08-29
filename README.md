@@ -26,3 +26,7 @@ Una vez hayas movido a un personaje, se hará una comprobación para saber si qu
 Durante el turno del enemigo, la IA hará una comprobación en todos los personajes del enemigo, si hay personajes del jugador al alcance, se moverán para atacarles, en caso contrarío, no se moverán. En el caso de que haya más de un personaje del jugador con menos defensas contra su tipo de ataque (los magos atacan con magia y los personajes se defienden de la magia con resistencia, el resto ataca con fuerza y los personajes se defienden de la fuerza con defensa).
 
 Cuando la IA haya movido a todos los personajes, acabará el turno del enemigo y volverá a ser el turno del jugador, el puntero volverá a aparecer y podremos volver a mover a todos nuestros personajes.
+
+Vídeo de gameplay del juego:
+
+https://www.youtube.com/watch?v=_HjTwLgyTNw&t=7s
